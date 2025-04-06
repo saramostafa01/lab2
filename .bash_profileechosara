@@ -1,0 +1,2 @@
+echo "Welcome! Today's date is: $(date)"
+

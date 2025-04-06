@@ -1,0 +1,2 @@
+/home/ubuntu/.bashrc
+/home/ubuntu/.bashrc
